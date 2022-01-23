@@ -1,0 +1,9 @@
+body {
+
+    color: #f7f7f7;
+}
+.jumbotron {
+    background-image: url("/Users/jeff.ragauskis/Desktop/Data Analytics Bootcamp/Module_11_JavaScript/UFOs/images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
